@@ -1,0 +1,207 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Baccianella%
+, Esuli%
+\BCBL {}\ \BBA {} Sebastiani%
+}{%
+Baccianella%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+baccianella2010sentiwordnet}
+\APACinsertmetastar {%
+baccianella2010sentiwordnet}%
+\begin{APACrefauthors}%
+Baccianella, S.%
+, Esuli, A.%
+\BCBL {}\ \BBA {} Sebastiani, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sentiwordnet 3.0: an enhanced lexical resource for
+  sentiment analysis and opinion mining.} {Sentiwordnet 3.0: an enhanced
+  lexical resource for sentiment analysis and opinion mining.}{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Lrec} {Lrec}\ (\BVOL~10, \BPGS\ 2200--2204).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bolukbasi%
+, Chang%
+, Zou%
+, Saligrama%
+\BCBL {}\ \BBA {} Kalai%
+}{%
+Bolukbasi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+bolukbasi2016man}
+\APACinsertmetastar {%
+bolukbasi2016man}%
+\begin{APACrefauthors}%
+Bolukbasi, T.%
+, Chang, K\BHBI W.%
+, Zou, J\BPBI Y.%
+, Saligrama, V.%
+\BCBL {}\ \BBA {} Kalai, A\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Man is to computer programmer as woman is to homemaker?
+  debiasing word embeddings} {Man is to computer programmer as woman is to
+  homemaker? debiasing word embeddings}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Advances in neural information processing systems}
+  {Advances in neural information processing systems}\ (\BPGS\ 4349--4357).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+He%
+\ \BBA {} Garcia%
+}{%
+He%
+\ \BBA {} Garcia%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+he2008learning}
+\APACinsertmetastar {%
+he2008learning}%
+\begin{APACrefauthors}%
+He, H.%
+\BCBT {}\ \BBA {} Garcia, E\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning from imbalanced data} {Learning from imbalanced
+  data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Knowledge \& Data
+  Engineering}{}{9}{1263--1284}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hu%
+\ \BBA {} Liu%
+}{%
+Hu%
+\ \BBA {} Liu%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+hu2004mining}
+\APACinsertmetastar {%
+hu2004mining}%
+\begin{APACrefauthors}%
+Hu, M.%
+\BCBT {}\ \BBA {} Liu, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mining opinion features in customer reviews} {Mining
+  opinion features in customer reviews}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {AAAI} {Aaai}\ (\BVOL~4, \BPGS\ 755--760).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mikolov%
+, Chen%
+, Corrado%
+\BCBL {}\ \BBA {} Dean%
+}{%
+Mikolov%
+, Chen%
+\BCBL {}\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+mikolov2013efficient}
+\APACinsertmetastar {%
+mikolov2013efficient}%
+\begin{APACrefauthors}%
+Mikolov, T.%
+, Chen, K.%
+, Corrado, G.%
+\BCBL {}\ \BBA {} Dean, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Efficient estimation of word representations in vector
+  space} {Efficient estimation of word representations in vector space}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1301.3781}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mikolov%
+, Sutskever%
+, Chen%
+, Corrado%
+\BCBL {}\ \BBA {} Dean%
+}{%
+Mikolov%
+, Sutskever%
+\BCBL {}\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+mikolov2013distributed}
+\APACinsertmetastar {%
+mikolov2013distributed}%
+\begin{APACrefauthors}%
+Mikolov, T.%
+, Sutskever, I.%
+, Chen, K.%
+, Corrado, G\BPBI S.%
+\BCBL {}\ \BBA {} Dean, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Distributed representations of words and phrases and
+  their compositionality} {Distributed representations of words and phrases and
+  their compositionality}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Advances in neural information processing systems}
+  {Advances in neural information processing systems}\ (\BPGS\ 3111--3119).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pang%
+, Lee%
+\BCBL {}\ \protect \BOthers {.}}{%
+Pang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+pang2008opinion}
+\APACinsertmetastar {%
+pang2008opinion}%
+\begin{APACrefauthors}%
+Pang, B.%
+, Lee, L.%
+\BCBL {}\ \BOthersPeriod {.}\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Opinion mining and sentiment analysis} {Opinion mining
+  and sentiment analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Foundations and Trends{\textregistered} in Information
+  Retrieval}{2}{1--2}{1--135}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
