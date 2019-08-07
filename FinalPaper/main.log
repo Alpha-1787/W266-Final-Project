@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  4 AUG 2019 03:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  4 AUG 2019 03:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -412,9 +412,6 @@ File: feat_importance.pdf Graphic file (type pdf)
 Package pdftex.def Info: feat_importance.pdf  used on input line 183.
 (pdftex.def)             Requested size: 206.39685pt x 148.28844pt.
  [4 <./Embeddings3.pdf> <./feat_importance.pdf>]
-
-LaTeX Warning: Reference `sentiments' on page 5 undefined on input line 192.
-
 <conservative_pdp.pdf, id=35, 623.32875pt x 470.75874pt>
 File: conservative_pdp.pdf Graphic file (type pdf)
 <use conservative_pdp.pdf>
@@ -425,17 +422,11 @@ File: liberal_pdp.pdf Graphic file (type pdf)
 <use liberal_pdp.pdf>
 Package pdftex.def Info: liberal_pdp.pdf  used on input line 205.
 (pdftex.def)             Requested size: 206.39685pt x 155.87523pt.
-
-LaTeX Warning: Reference `sentiments' on page 5 undefined on input line 212.
-
 <democrat_pdp.pdf, id=37, 623.32875pt x 470.75874pt>
 File: democrat_pdp.pdf Graphic file (type pdf)
 <use democrat_pdp.pdf>
 Package pdftex.def Info: democrat_pdp.pdf  used on input line 216.
 (pdftex.def)             Requested size: 206.39685pt x 155.87523pt.
-
-LaTeX Warning: Reference `sentiments' on page 5 undefined on input line 223.
-
 <trump_pdp.pdf, id=38, 623.32875pt x 470.75874pt>
 File: trump_pdp.pdf Graphic file (type pdf)
 <use trump_pdp.pdf>
@@ -446,7 +437,7 @@ File: sentiments.pdf Graphic file (type pdf)
 <use sentiments.pdf>
 Package pdftex.def Info: sentiments.pdf  used on input line 236.
 (pdftex.def)             Requested size: 206.39685pt x 99.95218pt.
-[5 <./conservative_pdp.pdf> <./liberal_pdp.pdf> <./democrat_pdp.pdf>]
+ [5 <./conservative_pdp.pdf> <./liberal_pdp.pdf> <./democrat_pdp.pdf>]
 (./main.bbl
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 204.
 
@@ -469,31 +460,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[6 <./trump_pdp.pdf> <./sentiments.pdf>] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[6 <./trump_pdp.pdf> <./sentiments.pdf>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4122 strings out of 492616
- 62341 string characters out of 6129482
+ 4120 strings out of 492616
+ 62323 string characters out of 6129482
  141045 words of memory out of 5000000
- 7943 multiletter control sequences out of 15000+600000
- 46753 words of font info for 100 fonts, out of 8000000 for 9000
+ 7942 multiletter control sequences out of 15000+600000
+ 45646 words of font info for 99 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  41i,10n,27p,1672b,300s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
-ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/tex
-mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/f
-onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
-/urw/times/utmri8a.pfb>
-Output written on main.pdf (6 pages, 1470008 bytes).
+{/usr/local/texlive/2019
+/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/ty
+pe1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/ti
+mes/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8
+a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (6 pages, 1469594 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
